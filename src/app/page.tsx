@@ -1,5 +1,5 @@
 import React from "react";
-import RecurringDatePicker from "@/components/features/RecurringDatePicker";
+import RecurringDatePicker from "../components/features/RecurringDatePicker";
 
 export default function Home() {
   return (
